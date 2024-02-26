@@ -1,4 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
 String imie = "Maciej";
 Console.WriteLine("Hello, World!");
-Console.WriteLine("Nazywam się MaciejS");
+Console.WriteLine("Cześć MaciejS");

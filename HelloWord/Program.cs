@@ -7,14 +7,14 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace HelloW
+namespace HelloWord
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            Console.WriteLine("Hi I'm MaciejS");
+            Console.WriteLine("I'm MaciejS");
         }
     }
 }

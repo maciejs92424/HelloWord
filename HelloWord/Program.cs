@@ -1,4 +1,11 @@
-﻿// See https://aka.ms/new-console-template for more information
-String imie = "Maciej";
-Console.WriteLine("Hello, World!");
-//Console.WriteLine("Cześć MaciejS");
+﻿namespace HelloW
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hi I'm MaciejS");
+        }
+    }
+}
